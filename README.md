@@ -98,6 +98,10 @@ Enter a case name and select a location to store the case data.
 
 Provide a case number and investigator details if required.
 ```
+
+<img width="1697" height="887" alt="Screenshot 2025-08-22 091446" src="https://github.com/user-attachments/assets/64d21e52-8455-4466-8cf5-0f017276ed14" />
+
+
 #### Step 2: Add a Data Source
 ```
 Click "Add Data Source" and choose the type:
