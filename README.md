@@ -70,7 +70,9 @@ In the new window, select Disk Management.
 #### Step 3: Shrink the C Drive to Allocate Space
 ```
 Locate C: drive → Right-click → Select Shrink Volume.
+
 Enter the amount of memory to allocate for the new disk.
+
 Click Shrink.
 ```
 #### Step 4: Create a New Volume
