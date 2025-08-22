@@ -58,10 +58,15 @@ Right-click This PC → Click Show More Options.
 
 Select Manage.
 ```
+
 #### Step 2: Access Disk Management
 ```
 In the new window, select Disk Management.
 ```
+
+<img width="285" height="526" alt="437154922-f5f69c3b-f2d9-4171-b5cc-fa4a589597d5" src="https://github.com/user-attachments/assets/9cc6f801-862d-4895-aa0d-f113daabf114" />
+
+
 #### Step 3: Shrink the C Drive to Allocate Space
 ```
 Locate C: drive → Right-click → Select Shrink Volume.
@@ -70,6 +75,10 @@ Enter the amount of memory to allocate for the new disk.
 
 Click Shrink.
 ```
+
+<img width="927" height="740" alt="437155028-e448bb5c-c84b-4fff-86f1-0da8fed39473" src="https://github.com/user-attachments/assets/d15030ff-560f-4948-97d9-d349c090a6ea" />
+
+
 #### Step 4: Create a New Volume
 ```
 Right-click on the newly unallocated space → Select New Simple Volume.
